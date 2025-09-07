@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76c0b0f7-cb04-4d0c-a6cc-20a50abe40cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EEGProjectRK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dataset_wide(per_subject).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject00_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject01_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject02_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject03_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject04_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject05_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject06_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject07_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject08_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject09_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject10_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject11_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject12_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject13_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject14_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject15_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject16_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject17_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject18_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject19_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject20_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject21_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject22_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject23_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject24_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject25_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject26_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject27_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject28_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject29_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject30_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject31_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject32_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject33_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject34_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files/Subject35_1.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject00_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject01_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject02_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject03_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject04_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject05_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject06_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject07_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject08_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject09_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject10_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject11_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject12_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject13_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject14_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject15_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject16_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject17_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject18_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject19_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject20_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject21_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject22_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject23_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject24_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject25_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject26_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject27_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject28_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject29_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject30_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject31_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject32_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject33_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject34_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eeg_files_2/Subject35_2.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ml_final_features(window_wise).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/subject-info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/temp_extracted/eeg-during-mental-arithmetic-tasks-1.0.0/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/temp_extracted/eeg-during-mental-arithmetic-tasks-1.0.0/RECORDS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/temp_extracted/eeg-during-mental-arithmetic-tasks-1.0.0/SHA256SUMS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feature_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/load_2_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot_psd_bands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="32C4pSR0cwWSV1WGCiqIuGba4H0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.data_loader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.load_2_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_psd_bands.executor&quot;: &quot;Run&quot;,
+    &quot;Python.preprocessing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76c0b0f7-cb04-4d0c-a6cc-20a50abe40cc" name="Changes" comment="" />
+      <created>1756911404964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756911404964</updated>
+      <workItem from="1756911416455" duration="1053000" />
+      <workItem from="1756966711002" duration="12487000" />
+      <workItem from="1757056201212" duration="5487000" />
+      <workItem from="1757151233945" duration="2052000" />
+      <workItem from="1757234115704" duration="3003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EEGProjectRK$preprocessing.coverage" NAME="preprocessing Coverage Results" MODIFIED="1757057412985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EEGProjectRK$plot_psd_bands.coverage" NAME="plot_psd_bands Coverage Results" MODIFIED="1756987696380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EEGProjectRK$load_2_files.coverage" NAME="load_2_files Coverage Results" MODIFIED="1756985917482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EEGProjectRK$data_loader.coverage" NAME="data_loader Coverage Results" MODIFIED="1756976454912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
